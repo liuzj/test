@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://10.13.43.127:8888/view/iOS%20泡泡/job/iOS_PaoPao_Daily_Build2/1732/artifact/output/QiYiVideo_enterprise_9.5.0_Release_2018-04-30_09-00.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>这里填写应用标题（例如ToDo）</string>
+				<key>bundle-version</key>
+				<string>这里填写版本号（例如1.5.0）</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>com.qiyi.iphone</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
